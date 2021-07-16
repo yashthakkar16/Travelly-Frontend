@@ -272,6 +272,9 @@ footer ul {
   justify-content: space-between;
   align-items: center;
 }
+footer ul li {
+  cursor: pointer;
+}
 
 /* Button focus to make website accessible */
 
