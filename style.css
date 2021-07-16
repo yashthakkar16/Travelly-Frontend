@@ -120,6 +120,7 @@ nav ul {
 }
 .locations-head h2 {
   padding: 1rem 0rem;
+  font-size: 4rem;
   text-decoration: underline;
   /* Optional 
     text-decoration-thickness: 0.5rem;
@@ -138,7 +139,7 @@ nav ul {
   right: 0%;
 }
 .moving-cloud-1 {
-  animation: cloudAnimation 3s infinite alternate ease-in-out;
+  animation: cloudAnimation 10s infinite alternate ease-in-out;
   z-index: -1;
   opacity: 1;
 }
@@ -146,7 +147,7 @@ nav ul {
   top: 20%;
   z-index: -2;
   opacity: 0.5;
-  animation: cloudAnimation 3.2s infinite alternate ease-in-out;
+  animation: cloudAnimation 10.5s infinite alternate ease-in-out;
 }
 /* Cloud Animation */
 
