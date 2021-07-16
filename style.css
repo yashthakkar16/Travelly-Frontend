@@ -139,7 +139,7 @@ nav ul {
   right: 0%;
 }
 .moving-cloud-1 {
-  animation: cloudAnimation 10s infinite alternate ease-in-out;
+  animation: cloudAnimation 3s infinite alternate ease-in-out;
   z-index: -1;
   opacity: 1;
 }
@@ -147,7 +147,7 @@ nav ul {
   top: 15%;
   z-index: -2;
   opacity: 0.5;
-  animation: cloudAnimation 10.5s infinite alternate ease-in-out;
+  animation: cloudAnimation 3.5s infinite alternate ease-in-out;
 }
 /* Cloud Animation */
 
